@@ -10,5 +10,5 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-    matcher: '/main',
+    matcher: ['/main', '/product/:id'],
 }
