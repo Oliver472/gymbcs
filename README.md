@@ -34,6 +34,11 @@ npm run dev
 **Username:** `johnd`  
 **Password:** `m38rmF$`
 
+## 🎨 Figma Design
+
+Design prototype available on Figma:  
+[👉 View Figma](https://www.figma.com/design/bASed4vka0alIL52GfrMTY/GymBeam-case-study?node-id=2-45&t=G1kuzVqgPW3sdXKc-1)
+
 
 
 
