@@ -29,7 +29,7 @@ npm run dev
 ```
 
 
-## 🔐 Login (for API)
+## 🔐 Login 
 
 **Username:** `johnd`  
 **Password:** `m38rmF$`
