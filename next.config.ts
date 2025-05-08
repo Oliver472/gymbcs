@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
     images: {
         domains: ['fakestoreapi.com'],
     },
+    devIndicators: false
 
 };
 

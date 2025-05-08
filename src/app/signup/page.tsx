@@ -68,11 +68,9 @@ function SignUp() {
                         action={() => {}}
                     />
 
-
                     <div className="divider text-center h-[2px] bg-secondary flex justify-center items-center ">
                         <p className="text-xs text-gray-400 bg-primary px-2">or sign up with</p>
                     </div>
-
 
                     <div className="flex flex-row space-x-4 justify-center items-center">
                         <button className="social-button w-fit bg-[#1877F2] ">

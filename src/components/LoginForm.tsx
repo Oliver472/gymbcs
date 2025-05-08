@@ -29,10 +29,7 @@ function LoginForm() {
 
     async function submitForm(data: Inputs) {
         try {
-            //johnd
-            //m38rmF$
             setIsLoading(true);
-
             const credentials = {
                 username: data.username,
                 password: data.password
