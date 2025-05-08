@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className=""
+        className="overflow-x-hidden h-screen w-screen"
       >
         {children}
         <ToastContainer/>
