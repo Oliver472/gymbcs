@@ -14,7 +14,6 @@ type Inputs = {
 function LoginForm() {
 
     const [isLoading, setIsLoading] = React.useState(false);
-
     const router = useRouter();
 
     function redirectToHome() {
@@ -30,7 +29,6 @@ function LoginForm() {
 
     async function submitForm(data: Inputs) {
         try {
-            //john@gmail.com
             //johnd
             //m38rmF$
             setIsLoading(true);
@@ -60,7 +58,7 @@ function LoginForm() {
                 control={control}
                 name={"username"}
                 label={"Username"}
-                placeholder={"Enter email adress"}
+                placeholder={"Enter username"}
                 rules={{
                     required: true,
 
